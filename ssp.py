@@ -9,6 +9,12 @@ import request_provider
 
 
 
+# sprawdzic czy jak podgladac przepustowosci na laczu
+# sprawdzic czy flowy sie zestawiaja
+# manualny puch
+# w konfiguracji kontrolera instrukcja 3
+
+
 
 class StaticEntryPusher(object):
     def __init__(self, server):
