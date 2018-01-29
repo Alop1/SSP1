@@ -7,7 +7,7 @@ from pprint import pprint
 import request_provider
 
 
-
+# czy konieczne jest ustawienia flow na h1->s1
 
 # sprawdzic czy jak podgladac przepustowosci na laczu
 # sprawdzic czy flowy sie zestawiaja
